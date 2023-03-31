@@ -1,6 +1,6 @@
 Name:		texlive-spbmark
 Version:	64706
-Release:	1
+Release:	2
 Summary:	Customize superscripts and subscripts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spbmark
