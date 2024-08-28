@@ -1,5 +1,5 @@
 Name:		texlive-spbmark
-Version:	69927
+Version:	71812
 Release:	1
 Summary:	Customize superscripts and subscripts
 Group:		Publishing
